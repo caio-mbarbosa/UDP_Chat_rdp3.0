@@ -1,5 +1,5 @@
 # UDP_Chat_rdp3.0
-A chat created for uni project 
+A chat created with Python 3 UDP sockets for uni project 
 
 Integrantes:
 
